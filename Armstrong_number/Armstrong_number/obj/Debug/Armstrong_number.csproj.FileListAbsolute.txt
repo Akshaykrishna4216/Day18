@@ -1,0 +1,8 @@
+D:\UST\Day13\Armstrong_number\Armstrong_number\bin\Debug\Armstrong_number.exe.config
+D:\UST\Day13\Armstrong_number\Armstrong_number\bin\Debug\Armstrong_number.exe
+D:\UST\Day13\Armstrong_number\Armstrong_number\bin\Debug\Armstrong_number.pdb
+D:\UST\Day13\Armstrong_number\Armstrong_number\obj\Debug\Armstrong_number.csproj.AssemblyReference.cache
+D:\UST\Day13\Armstrong_number\Armstrong_number\obj\Debug\Armstrong_number.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day13\Armstrong_number\Armstrong_number\obj\Debug\Armstrong_number.csproj.CoreCompileInputs.cache
+D:\UST\Day13\Armstrong_number\Armstrong_number\obj\Debug\Armstrong_number.exe
+D:\UST\Day13\Armstrong_number\Armstrong_number\obj\Debug\Armstrong_number.pdb
